@@ -1,0 +1,18 @@
+{
+  "extension.displayName": "web-vscode",
+  "extension.description": "VS Code AI 代码助手",
+  "views.web-vscode-sidebar.title": "Web-VSCode AI",
+  "views.web-vscode.chatView.name": "Web-VSCode 聊天",
+  "submenu.web_vscode_context_menu.label": "Web-VSCode AI 助手",
+  "command.web-vscode.chat.focus.title": "打开 Web-VSCode 聊天窗口",
+  "command.web-vscode.explain.title": "Web-VSCode: 解释代码内容",
+  "command.web-vscode.unit-test.title": "Web-VSCode: 生成单元测试",
+  "command.web-vscode.fix-bugs.title": "Web-VSCode: 修复代码 Bug",
+  "command.web-vscode.use-case.title": "Web-VSCode: 用例分析",
+  "command.web-vscode.generate-comment.title": "Web-VSCode: 生成注释",
+  "config.web-vscode.apiUrl.description": "OpenAI 兼容接口的 Base URL (例如: https://api.openai.com/v1)",
+  "config.web-vscode.apiKey.description": "您的 Web-VSCode API Key",
+  "config.web-vscode.model.description": "使用的模型名称 (如 gpt-3.5-turbo, deepseek-chat)",
+  "config.web-vscode.autoTriggerCompletion.description": "是否开启 Web-VSCode 自动代码补全",
+  "config.web-vscode.completionMaxTokens.description": "代码补全生成的最大长度"
+}

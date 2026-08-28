@@ -1,0 +1,18 @@
+{
+  "extension.displayName": "web-vscode",
+  "extension.description": "AI code assistant for VS Code",
+  "views.web-vscode-sidebar.title": "Web-VSCode AI",
+  "views.web-vscode.chatView.name": "Web-VSCode Chat",
+  "submenu.web_vscode_context_menu.label": "Web-VSCode AI Assistant",
+  "command.web-vscode.chat.focus.title": "Open Web-VSCode Chat",
+  "command.web-vscode.explain.title": "Web-VSCode: Explain Code",
+  "command.web-vscode.unit-test.title": "Web-VSCode: Generate Unit Tests",
+  "command.web-vscode.fix-bugs.title": "Web-VSCode: Fix Bugs",
+  "command.web-vscode.use-case.title": "Web-VSCode: Analyze Use Cases",
+  "command.web-vscode.generate-comment.title": "Web-VSCode: Generate Comments",
+  "config.web-vscode.apiUrl.description": "Base URL for OpenAI-compatible API (e.g. https://api.openai.com/v1)",
+  "config.web-vscode.apiKey.description": "Your Web-VSCode API Key",
+  "config.web-vscode.model.description": "Model name (e.g. gpt-3.5-turbo, deepseek-chat)",
+  "config.web-vscode.autoTriggerCompletion.description": "Enable Web-VSCode inline code completion",
+  "config.web-vscode.completionMaxTokens.description": "Maximum tokens for inline completion"
+}
